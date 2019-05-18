@@ -26,13 +26,19 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+ Learned how to deploy a site on Heroku and how to create api endpoints.
+
 - [ ] Describe Middleware?
-
+Middleware links two separate applications together.
 - [ ] Describe a Resource?
-
+  An object that you can use as a reference point for later. 
 - [ ] What can the API return to help clients know if a request was successful?
 
+The api returns updates anytime a request is made.
+
 - [ ] How can we partition our application into sub-applications?
+
+By making routes so we don't have one big file full of complex data.
 
 ## Project Setup
 
